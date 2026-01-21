@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/3314-construct-the-minimum-bitwise-array-i) |
+| [3315-construct-the-minimum-bitwise-array-ii](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3453-separate-squares-i](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/3454-separate-squares-ii) |
 ## Two Pointers
@@ -316,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0268-missing-number) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/3314-construct-the-minimum-bitwise-array-i) |
+| [3315-construct-the-minimum-bitwise-array-ii](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 ## Counting Sort
 |  |
 | ------- |
