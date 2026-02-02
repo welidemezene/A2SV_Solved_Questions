@@ -320,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1390-four-divisors](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/1390-four-divisors) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/2324-find-triangular-sum-of-an-array) |
+| [2469-convert-the-temperature](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/2469-convert-the-temperature) |
 | [2600-k-items-with-the-maximum-sum](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/2600-k-items-with-the-maximum-sum) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 ## Simulation
