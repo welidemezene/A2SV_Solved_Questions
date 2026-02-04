@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3637-trionic-array-i](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/3637-trionic-array-i) |
+| [3640-trionic-array-ii](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/3640-trionic-array-ii) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/3651-minimum-cost-path-with-teleportations) |
 ## Two Pointers
 |  |
@@ -309,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1458-max-dot-product-of-two-subsequences](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/2977-minimum-cost-to-convert-string-ii) |
+| [3640-trionic-array-ii](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/3640-trionic-array-ii) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/3651-minimum-cost-path-with-teleportations) |
 ## Interactive
 |  |
