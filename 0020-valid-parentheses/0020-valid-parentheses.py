@@ -1,18 +1,17 @@
 class Solution:
     def isValid(self, s: str) -> bool:
-        freq = {")":"(","]":"[","}":"{"}
-        stack = []
-        for n in s:
-            if n in freq.values():
-                stack.append(n)
-            elif n in freq.keys():
-                if stack and freq[n] == stack[-1]:
-                    stack.pop()
-                    
-                elif not stack or freq[n] != stack[-1]:
-                    return False
-        return stack == []              
-
-
-
+        freq = {"(":")","{":"}","[":"]"}
+        list1 = []
         
+        for n in s:
+            if n in "[({":
+                list1.append(freq[n])
+            else:
+                if list1 and n == list1[-1]:
+                    list1.pop()
+                else:
+                    return False
+        if not list1:
+            return True   
+        else:
+            return False                     
