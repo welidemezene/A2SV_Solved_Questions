@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/1046-max-consecutive-ones-iii) |
 | [1096-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/1096-maximum-sum-of-two-non-overlapping-subarrays) |
 | [1137-height-checker](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/1137-height-checker) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1200-minimum-absolute-difference](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/1200-minimum-absolute-difference) |
 | [1217-relative-sort-array](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/1217-relative-sort-array) |
 | [1266-minimum-time-visiting-all-points](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/1266-minimum-time-visiting-all-points) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-fruit-into-baskets](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0940-fruit-into-baskets) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1217-relative-sort-array](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/1217-relative-sort-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -240,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0844-backspace-string-compare) |
 | [0856-score-of-parentheses](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0856-score-of-parentheses) |
 | [0961-long-pressed-name](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0961-long-pressed-name) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1351-replace-the-substring-for-balanced-string](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/1351-replace-the-substring-for-balanced-string) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [1598-crawler-log-folder](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/1598-crawler-log-folder) |
@@ -376,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0451-sort-characters-by-frequency) |
 | [1137-height-checker](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/1137-height-checker) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1217-relative-sort-array](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/1217-relative-sort-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Heap (Priority Queue)
