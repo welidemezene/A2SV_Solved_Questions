@@ -219,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1217-relative-sort-array](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/1217-relative-sort-array) |
+| [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0856-score-of-parentheses](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0856-score-of-parentheses) |
 | [0961-long-pressed-name](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0961-long-pressed-name) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/1160-find-words-that-can-be-formed-by-characters) |
+| [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1351-replace-the-substring-for-balanced-string](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/1351-replace-the-substring-for-balanced-string) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [1528-shuffle-string](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/1528-shuffle-string) |
@@ -401,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1137-height-checker](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/1137-height-checker) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1217-relative-sort-array](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/1217-relative-sort-array) |
+| [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Heap (Priority Queue)
 |  |
