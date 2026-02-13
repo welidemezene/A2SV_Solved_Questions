@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1458-max-dot-product-of-two-subsequences](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1528-shuffle-string](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/1528-shuffle-string) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1598-crawler-log-folder](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/1598-crawler-log-folder) |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1351-replace-the-substring-for-balanced-string](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/1351-replace-the-substring-for-balanced-string) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/1422-maximum-score-after-splitting-a-string) |
+| [1528-shuffle-string](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/1528-shuffle-string) |
 | [1598-crawler-log-folder](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/1598-crawler-log-folder) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2000-reverse-prefix-of-word](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/2000-reverse-prefix-of-word) |
