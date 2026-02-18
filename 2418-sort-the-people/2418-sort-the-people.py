@@ -6,7 +6,7 @@ class Solution:
             freq[heights[i]] = names[i]
         check = False
         
-        for i in range(le-1):
+        for i in range(le):
             for j in range(i+1,le):
                 if heights[j] > heights[i]:
                     heights[i],heights[j] = heights[j],heights[i]
