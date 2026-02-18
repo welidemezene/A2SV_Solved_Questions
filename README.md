@@ -572,4 +572,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1382-balance-a-binary-search-tree](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/1382-balance-a-binary-search-tree) |
+## Backtracking
+|  |
+| ------- |
+| [0077-combinations](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0077-combinations) |
 <!---LeetCode Topics End-->
