@@ -207,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0349-intersection-of-two-arrays) |
+| [0383-ransom-note](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0383-ransom-note) |
 | [0424-longest-repeating-character-replacement](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -248,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0125-valid-palindrome) |
 | [0179-largest-number](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0242-valid-anagram) |
+| [0383-ransom-note](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0383-ransom-note) |
 | [0424-longest-repeating-character-replacement](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0451-sort-characters-by-frequency) |
@@ -402,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0347-top-k-frequent-elements) |
+| [0383-ransom-note](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0383-ransom-note) |
 | [0451-sort-characters-by-frequency](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0451-sort-characters-by-frequency) |
 | [0811-subdomain-visit-count](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0811-subdomain-visit-count) |
 | [1137-height-checker](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/1137-height-checker) |
