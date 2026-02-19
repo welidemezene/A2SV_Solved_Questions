@@ -1,14 +1,12 @@
 class Solution:
     def intersection(self, nums1: List[int], nums2: List[int]) -> List[int]:
-      freq = defaultdict(int)
-      for num in nums1:
-        freq[num]+=1
-      li = []
-      for num in nums2:
-        if num in freq:
-            li.append(num)
-            del freq[num]
-      return li      
+        nu1 = set(nums1)
+        nu2 = set(nums2)
+        li = []
+        for n in nu1:
+            if n in nu2:
+                li.append(n)
+        return li        
 
-          
-
+        
+      
