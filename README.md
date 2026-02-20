@@ -231,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [2418-sort-the-people](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/2418-sort-the-people) |
 | [2634-minimum-common-value](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/2634-minimum-common-value) |
+| [2671-frequency-tracker](https://github.com/welidemezene/A2SV_Solved_Questions/tree/master/2671-frequency-tracker) |
 | [2848-points-that-intersect-with-cars](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/2848-points-that-intersect-with-cars) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
@@ -585,4 +586,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0077-combinations](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0077-combinations) |
+## Design
+|  |
+| ------- |
+| [2671-frequency-tracker](https://github.com/welidemezene/A2SV_Solved_Questions/tree/master/2671-frequency-tracker) |
 <!---LeetCode Topics End-->
