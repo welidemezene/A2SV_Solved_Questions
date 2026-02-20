@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2418-sort-the-people](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/2418-sort-the-people) |
+| [2553-separate-the-digits-in-an-array](https://github.com/welidemezene/A2SV_Solved_Questions/tree/master/2553-separate-the-digits-in-an-array) |
 | [2634-minimum-common-value](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/2634-minimum-common-value) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2848-points-that-intersect-with-cars](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/2848-points-that-intersect-with-cars) |
@@ -389,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2390-removing-stars-from-a-string](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/2390-removing-stars-from-a-string) |
+| [2553-separate-the-digits-in-an-array](https://github.com/welidemezene/A2SV_Solved_Questions/tree/master/2553-separate-the-digits-in-an-array) |
 | [3174-clear-digits](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/3174-clear-digits) |
 | [3379-transformed-array](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/3379-transformed-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
