@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0976-largest-perimeter-triangle](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0976-largest-perimeter-triangle) |
+| [0985-sum-of-even-numbers-after-queries](https://github.com/welidemezene/A2SV_Solved_Questions/tree/master/0985-sum-of-even-numbers-after-queries) |
 | [1020-longest-turbulent-subarray](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/1020-longest-turbulent-subarray) |
 | [1028-interval-list-intersections](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/1028-interval-list-intersections) |
 | [1029-two-city-scheduling](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/1029-two-city-scheduling) |
@@ -382,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0867-transpose-matrix) |
 | [0946-validate-stack-sequences](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0946-validate-stack-sequences) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0950-reveal-cards-in-increasing-order) |
+| [0985-sum-of-even-numbers-after-queries](https://github.com/welidemezene/A2SV_Solved_Questions/tree/master/0985-sum-of-even-numbers-after-queries) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2073-time-needed-to-buy-tickets](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/2073-time-needed-to-buy-tickets) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
