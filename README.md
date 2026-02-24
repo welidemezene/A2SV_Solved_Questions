@@ -206,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/welidemezene/A2SV_Solved_Questions/tree/master/0012-integer-to-roman) |
 | [0049-group-anagrams](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/welidemezene/A2SV_Solved_Questions/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0169-majority-element) |
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/welidemezene/A2SV_Solved_Questions/tree/master/0012-integer-to-roman) |
 | [0020-valid-parentheses](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0071-simplify-path) |
@@ -367,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0009-palindrome-number) |
+| [0012-integer-to-roman](https://github.com/welidemezene/A2SV_Solved_Questions/tree/master/0012-integer-to-roman) |
 | [0050-powx-n](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0066-plus-one) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0150-evaluate-reverse-polish-notation) |
