@@ -248,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2848-points-that-intersect-with-cars](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/2848-points-that-intersect-with-cars) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
+| [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/welidemezene/A2SV_Solved_Questions/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Line Sweep
@@ -293,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3174-clear-digits](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/3174-clear-digits) |
 | [3195-separate-black-and-white-balls](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/3195-separate-black-and-white-balls) |
+| [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/welidemezene/A2SV_Solved_Questions/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Binary Search
 |  |
@@ -437,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1657-determine-if-two-strings-are-close](https://github.com/welidemezene/A2SV_Solved_Questions/tree/master/1657-determine-if-two-strings-are-close) |
+| [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/welidemezene/A2SV_Solved_Questions/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Heap (Priority Queue)
 |  |
