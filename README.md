@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0811-subdomain-visit-count](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0811-subdomain-visit-count) |
 | [0853-car-fleet](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0853-car-fleet) |
 | [0867-transpose-matrix](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0867-transpose-matrix) |
+| [0904-fruit-into-baskets](https://github.com/welidemezene/A2SV_Solved_Questions/tree/master/0904-fruit-into-baskets) |
 | [0917-boats-to-save-people](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0917-boats-to-save-people) |
 | [0940-fruit-into-baskets](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0940-fruit-into-baskets) |
 | [0946-validate-stack-sequences](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0946-validate-stack-sequences) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0599-minimum-index-sum-of-two-lists](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0811-subdomain-visit-count](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0811-subdomain-visit-count) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [0904-fruit-into-baskets](https://github.com/welidemezene/A2SV_Solved_Questions/tree/master/0904-fruit-into-baskets) |
 | [0940-fruit-into-baskets](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0940-fruit-into-baskets) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -337,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0713-subarray-product-less-than-k) |
+| [0904-fruit-into-baskets](https://github.com/welidemezene/A2SV_Solved_Questions/tree/master/0904-fruit-into-baskets) |
 | [0940-fruit-into-baskets](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0940-fruit-into-baskets) |
 | [1020-longest-turbulent-subarray](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/1020-longest-turbulent-subarray) |
 | [1046-max-consecutive-ones-iii](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/1046-max-consecutive-ones-iii) |
