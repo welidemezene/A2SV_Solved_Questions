@@ -11,7 +11,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0048-rotate-image](https://github.com/welidemezene/A2SV_Solved_Questions/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/welidemezene/A2SV_Solved_Questions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0057-insert-interval) |
@@ -19,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0075-sort-colors) |
 | [0085-maximal-rectangle](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/welidemezene/A2SV_Solved_Questions/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -33,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0330-patching-array](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0330-patching-array) |
 | [0347-top-k-frequent-elements](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0349-intersection-of-two-arrays) |
+| [0380-insert-delete-getrandom-o1](https://github.com/welidemezene/A2SV_Solved_Questions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0496-next-greater-element-i) |
@@ -48,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0811-subdomain-visit-count](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0811-subdomain-visit-count) |
 | [0853-car-fleet](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0853-car-fleet) |
 | [0867-transpose-matrix](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0867-transpose-matrix) |
+| [0904-fruit-into-baskets](https://github.com/welidemezene/A2SV_Solved_Questions/tree/master/0904-fruit-into-baskets) |
 | [0917-boats-to-save-people](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0917-boats-to-save-people) |
 | [0940-fruit-into-baskets](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0940-fruit-into-baskets) |
 | [0946-validate-stack-sequences](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0946-validate-stack-sequences) |
@@ -55,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0976-largest-perimeter-triangle](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0976-largest-perimeter-triangle) |
+| [0985-sum-of-even-numbers-after-queries](https://github.com/welidemezene/A2SV_Solved_Questions/tree/master/0985-sum-of-even-numbers-after-queries) |
 | [1020-longest-turbulent-subarray](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/1020-longest-turbulent-subarray) |
 | [1028-interval-list-intersections](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/1028-interval-list-intersections) |
 | [1029-two-city-scheduling](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/1029-two-city-scheduling) |
@@ -85,11 +91,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1895-largest-magic-square](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/1895-largest-magic-square) |
 | [1975-maximum-matrix-sum](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/1975-maximum-matrix-sum) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2007-find-original-array-from-doubled-array](https://github.com/welidemezene/A2SV_Solved_Questions/tree/master/2007-find-original-array-from-doubled-array) |
 | [2073-time-needed-to-buy-tickets](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/2073-time-needed-to-buy-tickets) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2418-sort-the-people](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/2418-sort-the-people) |
+| [2553-separate-the-digits-in-an-array](https://github.com/welidemezene/A2SV_Solved_Questions/tree/master/2553-separate-the-digits-in-an-array) |
 | [2634-minimum-common-value](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/2634-minimum-common-value) |
+| [2780-minimum-index-of-a-valid-split](https://github.com/welidemezene/A2SV_Solved_Questions/tree/master/2780-minimum-index-of-a-valid-split) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2848-points-that-intersect-with-cars](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/2848-points-that-intersect-with-cars) |
 | [2866-longest-even-odd-subarray-with-threshold](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/2866-longest-even-odd-subarray-with-threshold) |
@@ -109,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3454-separate-squares-ii](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/3454-separate-squares-ii) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
+| [3527-find-the-most-common-response](https://github.com/welidemezene/A2SV_Solved_Questions/tree/master/3527-find-the-most-common-response) |
 | [3637-trionic-array-i](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/3637-trionic-array-i) |
 | [3640-trionic-array-ii](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/3640-trionic-array-ii) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/3651-minimum-cost-path-with-teleportations) |
@@ -150,10 +160,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-boats-to-save-people](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0917-boats-to-save-people) |
 | [0976-largest-perimeter-triangle](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0976-largest-perimeter-triangle) |
 | [1029-two-city-scheduling](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/1029-two-city-scheduling) |
+| [1247-minimum-swaps-to-make-strings-equal](https://github.com/welidemezene/A2SV_Solved_Questions/tree/master/1247-minimum-swaps-to-make-strings-equal) |
 | [1382-balance-a-binary-search-tree](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/1382-balance-a-binary-search-tree) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1975-maximum-matrix-sum](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/1975-maximum-matrix-sum) |
+| [2007-find-original-array-from-doubled-array](https://github.com/welidemezene/A2SV_Solved_Questions/tree/master/2007-find-original-array-from-doubled-array) |
 | [2600-k-items-with-the-maximum-sum](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/2600-k-items-with-the-maximum-sum) |
 | [3195-separate-black-and-white-balls](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/3195-separate-black-and-white-balls) |
 ## Sorting
@@ -185,11 +197,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1217-relative-sort-array](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/1217-relative-sort-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/1561-maximum-number-of-coins-you-can-get) |
+| [1657-determine-if-two-strings-are-close](https://github.com/welidemezene/A2SV_Solved_Questions/tree/master/1657-determine-if-two-strings-are-close) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2007-find-original-array-from-doubled-array](https://github.com/welidemezene/A2SV_Solved_Questions/tree/master/2007-find-original-array-from-doubled-array) |
 | [2418-sort-the-people](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/2418-sort-the-people) |
+| [2780-minimum-index-of-a-valid-split](https://github.com/welidemezene/A2SV_Solved_Questions/tree/master/2780-minimum-index-of-a-valid-split) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/2943-maximize-area-of-square-hole-in-grid) |
@@ -200,7 +215,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/welidemezene/A2SV_Solved_Questions/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/welidemezene/A2SV_Solved_Questions/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/welidemezene/A2SV_Solved_Questions/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0217-contains-duplicate) |
@@ -209,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0349-intersection-of-two-arrays) |
+| [0380-insert-delete-getrandom-o1](https://github.com/welidemezene/A2SV_Solved_Questions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0383-ransom-note) |
 | [0424-longest-repeating-character-replacement](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -219,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0599-minimum-index-sum-of-two-lists](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0811-subdomain-visit-count](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0811-subdomain-visit-count) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [0904-fruit-into-baskets](https://github.com/welidemezene/A2SV_Solved_Questions/tree/master/0904-fruit-into-baskets) |
 | [0940-fruit-into-baskets](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0940-fruit-into-baskets) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -226,16 +246,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1217-relative-sort-array](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/1217-relative-sort-array) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1657-determine-if-two-strings-are-close](https://github.com/welidemezene/A2SV_Solved_Questions/tree/master/1657-determine-if-two-strings-are-close) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
+| [2007-find-original-array-from-doubled-array](https://github.com/welidemezene/A2SV_Solved_Questions/tree/master/2007-find-original-array-from-doubled-array) |
 | [2418-sort-the-people](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/2418-sort-the-people) |
 | [2634-minimum-common-value](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/2634-minimum-common-value) |
+| [2671-frequency-tracker](https://github.com/welidemezene/A2SV_Solved_Questions/tree/master/2671-frequency-tracker) |
+| [2780-minimum-index-of-a-valid-split](https://github.com/welidemezene/A2SV_Solved_Questions/tree/master/2780-minimum-index-of-a-valid-split) |
 | [2848-points-that-intersect-with-cars](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/2848-points-that-intersect-with-cars) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
+| [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/welidemezene/A2SV_Solved_Questions/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
+| [3527-find-the-most-common-response](https://github.com/welidemezene/A2SV_Solved_Questions/tree/master/3527-find-the-most-common-response) |
 ## Line Sweep
 |  |
 | ------- |
@@ -245,6 +271,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/welidemezene/A2SV_Solved_Questions/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/welidemezene/A2SV_Solved_Questions/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0071-simplify-path) |
@@ -264,11 +292,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0856-score-of-parentheses](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0856-score-of-parentheses) |
 | [0961-long-pressed-name](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0961-long-pressed-name) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/1160-find-words-that-can-be-formed-by-characters) |
+| [1247-minimum-swaps-to-make-strings-equal](https://github.com/welidemezene/A2SV_Solved_Questions/tree/master/1247-minimum-swaps-to-make-strings-equal) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1351-replace-the-substring-for-balanced-string](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/1351-replace-the-substring-for-balanced-string) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [1528-shuffle-string](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/1528-shuffle-string) |
 | [1598-crawler-log-folder](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/1598-crawler-log-folder) |
+| [1657-determine-if-two-strings-are-close](https://github.com/welidemezene/A2SV_Solved_Questions/tree/master/1657-determine-if-two-strings-are-close) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2000-reverse-prefix-of-word](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/2000-reverse-prefix-of-word) |
 | [2390-removing-stars-from-a-string](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/2390-removing-stars-from-a-string) |
@@ -277,7 +307,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3174-clear-digits](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/3174-clear-digits) |
 | [3195-separate-black-and-white-balls](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/3195-separate-black-and-white-balls) |
+| [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/welidemezene/A2SV_Solved_Questions/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3527-find-the-most-common-response](https://github.com/welidemezene/A2SV_Solved_Questions/tree/master/3527-find-the-most-common-response) |
 ## Binary Search
 |  |
 | ------- |
@@ -308,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0713-subarray-product-less-than-k) |
+| [0904-fruit-into-baskets](https://github.com/welidemezene/A2SV_Solved_Questions/tree/master/0904-fruit-into-baskets) |
 | [0940-fruit-into-baskets](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0940-fruit-into-baskets) |
 | [1020-longest-turbulent-subarray](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/1020-longest-turbulent-subarray) |
 | [1046-max-consecutive-ones-iii](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/1046-max-consecutive-ones-iii) |
@@ -338,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/welidemezene/A2SV_Solved_Questions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0055-jump-game) |
 | [0085-maximal-rectangle](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -358,12 +392,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0009-palindrome-number) |
+| [0012-integer-to-roman](https://github.com/welidemezene/A2SV_Solved_Questions/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/welidemezene/A2SV_Solved_Questions/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/welidemezene/A2SV_Solved_Questions/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0066-plus-one) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0268-missing-number) |
+| [0380-insert-delete-getrandom-o1](https://github.com/welidemezene/A2SV_Solved_Questions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0976-largest-perimeter-triangle](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0976-largest-perimeter-triangle) |
+| [1247-minimum-swaps-to-make-strings-equal](https://github.com/welidemezene/A2SV_Solved_Questions/tree/master/1247-minimum-swaps-to-make-strings-equal) |
 | [1266-minimum-time-visiting-all-points](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/1390-four-divisors) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/1561-maximum-number-of-coins-you-can-get) |
@@ -381,11 +420,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0867-transpose-matrix) |
 | [0946-validate-stack-sequences](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0946-validate-stack-sequences) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0950-reveal-cards-in-increasing-order) |
+| [0985-sum-of-even-numbers-after-queries](https://github.com/welidemezene/A2SV_Solved_Questions/tree/master/0985-sum-of-even-numbers-after-queries) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2073-time-needed-to-buy-tickets](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/2073-time-needed-to-buy-tickets) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2390-removing-stars-from-a-string](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/2390-removing-stars-from-a-string) |
+| [2553-separate-the-digits-in-an-array](https://github.com/welidemezene/A2SV_Solved_Questions/tree/master/2553-separate-the-digits-in-an-array) |
 | [3174-clear-digits](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/3174-clear-digits) |
 | [3379-transformed-array](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/3379-transformed-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
@@ -416,7 +457,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1217-relative-sort-array](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/1217-relative-sort-array) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1657-determine-if-two-strings-are-close](https://github.com/welidemezene/A2SV_Solved_Questions/tree/master/1657-determine-if-two-strings-are-close) |
+| [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/welidemezene/A2SV_Solved_Questions/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3527-find-the-most-common-response](https://github.com/welidemezene/A2SV_Solved_Questions/tree/master/3527-find-the-most-common-response) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -506,6 +550,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/welidemezene/A2SV_Solved_Questions/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0347-top-k-frequent-elements) |
 | [1382-balance-a-binary-search-tree](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/1382-balance-a-binary-search-tree) |
@@ -527,6 +572,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/welidemezene/A2SV_Solved_Questions/tree/master/0048-rotate-image) |
 | [0085-maximal-rectangle](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0085-maximal-rectangle) |
 | [0867-transpose-matrix](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0867-transpose-matrix) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
@@ -585,4 +631,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0077-combinations](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0077-combinations) |
+## Design
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/welidemezene/A2SV_Solved_Questions/tree/master/0380-insert-delete-getrandom-o1) |
+| [2671-frequency-tracker](https://github.com/welidemezene/A2SV_Solved_Questions/tree/master/2671-frequency-tracker) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/welidemezene/A2SV_Solved_Questions/tree/master/0128-longest-consecutive-sequence) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/welidemezene/A2SV_Solved_Questions/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->
