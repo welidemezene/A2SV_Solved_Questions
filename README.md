@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0496-next-greater-element-i) |
+| [0498-diagonal-traverse](https://github.com/welidemezene/A2SV_Solved_Questions/tree/master/0498-diagonal-traverse) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0643-maximum-average-subarray-i](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0643-maximum-average-subarray-i) |
 | [0661-image-smoother](https://github.com/welidemezene/A2SV_Solved_Questions/tree/master/0661-image-smoother) |
@@ -423,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/welidemezene/A2SV_Solved_Questions/tree/master/0054-spiral-matrix) |
+| [0498-diagonal-traverse](https://github.com/welidemezene/A2SV_Solved_Questions/tree/master/0498-diagonal-traverse) |
 | [0682-baseball-game](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0844-backspace-string-compare) |
 | [0867-transpose-matrix](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0867-transpose-matrix) |
@@ -584,6 +586,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/welidemezene/A2SV_Solved_Questions/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/welidemezene/A2SV_Solved_Questions/tree/master/0073-set-matrix-zeroes) |
 | [0085-maximal-rectangle](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0085-maximal-rectangle) |
+| [0498-diagonal-traverse](https://github.com/welidemezene/A2SV_Solved_Questions/tree/master/0498-diagonal-traverse) |
 | [0661-image-smoother](https://github.com/welidemezene/A2SV_Solved_Questions/tree/master/0661-image-smoother) |
 | [0867-transpose-matrix](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0867-transpose-matrix) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
