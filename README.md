@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0946-validate-stack-sequences](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0946-validate-stack-sequences) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0950-reveal-cards-in-increasing-order) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [0969-pancake-sorting](https://github.com/welidemezene/A2SV_Solved_Questions/tree/master/0969-pancake-sorting) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0976-largest-perimeter-triangle](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0976-largest-perimeter-triangle) |
 | [0985-sum-of-even-numbers-after-queries](https://github.com/welidemezene/A2SV_Solved_Questions/tree/master/0985-sum-of-even-numbers-after-queries) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0844-backspace-string-compare) |
 | [0917-boats-to-save-people](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0917-boats-to-save-people) |
 | [0961-long-pressed-name](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0961-long-pressed-name) |
+| [0969-pancake-sorting](https://github.com/welidemezene/A2SV_Solved_Questions/tree/master/0969-pancake-sorting) |
 | [1028-interval-list-intersections](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/1028-interval-list-intersections) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0330-patching-array](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0330-patching-array) |
 | [0455-assign-cookies](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0455-assign-cookies) |
 | [0917-boats-to-save-people](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0917-boats-to-save-people) |
+| [0969-pancake-sorting](https://github.com/welidemezene/A2SV_Solved_Questions/tree/master/0969-pancake-sorting) |
 | [0976-largest-perimeter-triangle](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0976-largest-perimeter-triangle) |
 | [1029-two-city-scheduling](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/1029-two-city-scheduling) |
 | [1247-minimum-swaps-to-make-strings-equal](https://github.com/welidemezene/A2SV_Solved_Questions/tree/master/1247-minimum-swaps-to-make-strings-equal) |
@@ -200,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0853-car-fleet](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0853-car-fleet) |
 | [0917-boats-to-save-people](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0917-boats-to-save-people) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0950-reveal-cards-in-increasing-order) |
+| [0969-pancake-sorting](https://github.com/welidemezene/A2SV_Solved_Questions/tree/master/0969-pancake-sorting) |
 | [0976-largest-perimeter-triangle](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0976-largest-perimeter-triangle) |
 | [1029-two-city-scheduling](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/1029-two-city-scheduling) |
 | [1137-height-checker](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/1137-height-checker) |
