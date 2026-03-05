@@ -586,6 +586,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0203-remove-linked-list-elements](https://github.com/welidemezene/A2SV_Solved_Questions/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0206-reverse-linked-list) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
@@ -593,6 +594,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0050-powx-n) |
+| [0203-remove-linked-list-elements](https://github.com/welidemezene/A2SV_Solved_Questions/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0206-reverse-linked-list) |
 ## Matrix
 |  |
