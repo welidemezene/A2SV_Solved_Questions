@@ -393,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/welidemezene/A2SV_Solved_Questions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/welidemezene/A2SV_Solved_Questions/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
@@ -417,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/welidemezene/A2SV_Solved_Questions/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0066-plus-one) |
+| [0070-climbing-stairs](https://github.com/welidemezene/A2SV_Solved_Questions/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0268-missing-number) |
@@ -678,4 +680,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/welidemezene/A2SV_Solved_Questions/tree/master/0380-insert-delete-getrandom-o1) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/welidemezene/A2SV_Solved_Questions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
