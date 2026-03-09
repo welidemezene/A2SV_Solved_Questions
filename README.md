@@ -292,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/welidemezene/A2SV_Solved_Questions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/welidemezene/A2SV_Solved_Questions/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/welidemezene/A2SV_Solved_Questions/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0071-simplify-path) |
 | [0125-valid-palindrome](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0125-valid-palindrome) |
@@ -391,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/welidemezene/A2SV_Solved_Questions/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/welidemezene/A2SV_Solved_Questions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/welidemezene/A2SV_Solved_Questions/tree/master/0070-climbing-stairs) |
@@ -666,6 +668,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/welidemezene/A2SV_Solved_Questions/tree/master/0022-generate-parentheses) |
 | [0077-combinations](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0077-combinations) |
 ## Design
 |  |
