@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0811-subdomain-visit-count](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0811-subdomain-visit-count) |
 | [0832-flipping-an-image](https://github.com/welidemezene/A2SV_Solved_Questions/tree/master/0832-flipping-an-image) |
 | [0853-car-fleet](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0853-car-fleet) |
+| [0860-lemonade-change](https://github.com/welidemezene/A2SV_Solved_Questions/tree/master/0860-lemonade-change) |
 | [0867-transpose-matrix](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0867-transpose-matrix) |
 | [0904-fruit-into-baskets](https://github.com/welidemezene/A2SV_Solved_Questions/tree/master/0904-fruit-into-baskets) |
 | [0917-boats-to-save-people](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0917-boats-to-save-people) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0179-largest-number) |
 | [0330-patching-array](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0330-patching-array) |
 | [0455-assign-cookies](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0455-assign-cookies) |
+| [0860-lemonade-change](https://github.com/welidemezene/A2SV_Solved_Questions/tree/master/0860-lemonade-change) |
 | [0917-boats-to-save-people](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0917-boats-to-save-people) |
 | [0969-pancake-sorting](https://github.com/welidemezene/A2SV_Solved_Questions/tree/master/0969-pancake-sorting) |
 | [0976-largest-perimeter-triangle](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0976-largest-perimeter-triangle) |
