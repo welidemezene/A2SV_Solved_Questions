@@ -425,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/welidemezene/A2SV_Solved_Questions/tree/master/0342-power-of-four) |
 | [0380-insert-delete-getrandom-o1](https://github.com/welidemezene/A2SV_Solved_Questions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0976-largest-perimeter-triangle](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0976-largest-perimeter-triangle) |
 | [1247-minimum-swaps-to-make-strings-equal](https://github.com/welidemezene/A2SV_Solved_Questions/tree/master/1247-minimum-swaps-to-make-strings-equal) |
@@ -468,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/welidemezene/A2SV_Solved_Questions/tree/master/0342-power-of-four) |
 | [0832-flipping-an-image](https://github.com/welidemezene/A2SV_Solved_Questions/tree/master/0832-flipping-an-image) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/3314-construct-the-minimum-bitwise-array-i) |
@@ -603,6 +605,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/welidemezene/A2SV_Solved_Questions/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0206-reverse-linked-list) |
+| [0342-power-of-four](https://github.com/welidemezene/A2SV_Solved_Questions/tree/master/0342-power-of-four) |
 ## Matrix
 |  |
 | ------- |
