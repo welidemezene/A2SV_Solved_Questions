@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/welidemezene/A2SV_Solved_Questions/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/2324-find-triangular-sum-of-an-array) |
+| [2381-shifting-letters-ii](https://github.com/welidemezene/A2SV_Solved_Questions/tree/master/2381-shifting-letters-ii) |
 | [2418-sort-the-people](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/2418-sort-the-people) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/welidemezene/A2SV_Solved_Questions/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2553-separate-the-digits-in-an-array](https://github.com/welidemezene/A2SV_Solved_Questions/tree/master/2553-separate-the-digits-in-an-array) |
@@ -351,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1657-determine-if-two-strings-are-close](https://github.com/welidemezene/A2SV_Solved_Questions/tree/master/1657-determine-if-two-strings-are-close) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2000-reverse-prefix-of-word](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/2000-reverse-prefix-of-word) |
+| [2381-shifting-letters-ii](https://github.com/welidemezene/A2SV_Solved_Questions/tree/master/2381-shifting-letters-ii) |
 | [2390-removing-stars-from-a-string](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/2390-removing-stars-from-a-string) |
 | [2418-sort-the-people](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/2418-sort-the-people) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/2976-minimum-cost-to-convert-string-i) |
@@ -423,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1895-largest-magic-square](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/1895-largest-magic-square) |
+| [2381-shifting-letters-ii](https://github.com/welidemezene/A2SV_Solved_Questions/tree/master/2381-shifting-letters-ii) |
 | [2848-points-that-intersect-with-cars](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/2848-points-that-intersect-with-cars) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Dynamic Programming
