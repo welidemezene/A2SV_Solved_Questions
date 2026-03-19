@@ -6,6 +6,4 @@ class Solution:
                 stack.pop()
             else:
                 stack.append(n)
-        return "".join(stack)            
-
-        
+        return "".join(stack)                   
