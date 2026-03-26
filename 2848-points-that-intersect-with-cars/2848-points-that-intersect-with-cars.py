@@ -7,4 +7,3 @@ class Solution:
             if j not in lis:
                 lis.append(j)
       return len(lis)     
-
