@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/welidemezene/A2SV_Solved_Questions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0085-maximal-rectangle](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0085-maximal-rectangle) |
+| [0119-pascals-triangle-ii](https://github.com/welidemezene/A2SV_Solved_Questions/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/welidemezene/A2SV_Solved_Questions/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0136-single-number) |
@@ -455,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/welidemezene/A2SV_Solved_Questions/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0085-maximal-rectangle) |
+| [0119-pascals-triangle-ii](https://github.com/welidemezene/A2SV_Solved_Questions/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [1020-longest-turbulent-subarray](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/1020-longest-turbulent-subarray) |
