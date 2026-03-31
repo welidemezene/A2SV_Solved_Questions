@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1528-shuffle-string](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/1528-shuffle-string) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [1589-maximum-sum-obtained-of-any-permutation](https://github.com/welidemezene/A2SV_Solved_Questions/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
 | [1598-crawler-log-folder](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/1598-crawler-log-folder) |
 | [1603-running-sum-of-1d-array](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/1603-running-sum-of-1d-array) |
 | [1646-kth-missing-positive-number](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/1646-kth-missing-positive-number) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1247-minimum-swaps-to-make-strings-equal](https://github.com/welidemezene/A2SV_Solved_Questions/tree/master/1247-minimum-swaps-to-make-strings-equal) |
 | [1382-balance-a-binary-search-tree](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/1382-balance-a-binary-search-tree) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/1561-maximum-number-of-coins-you-can-get) |
+| [1589-maximum-sum-obtained-of-any-permutation](https://github.com/welidemezene/A2SV_Solved_Questions/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1975-maximum-matrix-sum](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/1975-maximum-matrix-sum) |
 | [2007-find-original-array-from-doubled-array](https://github.com/welidemezene/A2SV_Solved_Questions/tree/master/2007-find-original-array-from-doubled-array) |
@@ -246,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/welidemezene/A2SV_Solved_Questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/1561-maximum-number-of-coins-you-can-get) |
+| [1589-maximum-sum-obtained-of-any-permutation](https://github.com/welidemezene/A2SV_Solved_Questions/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
 | [1657-determine-if-two-strings-are-close](https://github.com/welidemezene/A2SV_Solved_Questions/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/welidemezene/A2SV_Solved_Questions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -448,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/welidemezene/A2SV_Solved_Questions/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/1422-maximum-score-after-splitting-a-string) |
+| [1589-maximum-sum-obtained-of-any-permutation](https://github.com/welidemezene/A2SV_Solved_Questions/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
 | [1603-running-sum-of-1d-array](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/1603-running-sum-of-1d-array) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
