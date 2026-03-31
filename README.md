@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/welidemezene/A2SV_Solved_Questions/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0283-move-zeroes) |
+| [0303-range-sum-query-immutable](https://github.com/welidemezene/A2SV_Solved_Questions/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/welidemezene/A2SV_Solved_Questions/tree/master/0304-range-sum-query-2d-immutable) |
 | [0330-patching-array](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0330-patching-array) |
 | [0347-top-k-frequent-elements](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0347-top-k-frequent-elements) |
@@ -430,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0238-product-of-array-except-self) |
+| [0303-range-sum-query-immutable](https://github.com/welidemezene/A2SV_Solved_Questions/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/welidemezene/A2SV_Solved_Questions/tree/master/0304-range-sum-query-2d-immutable) |
 | [0523-continuous-subarray-sum](https://github.com/welidemezene/A2SV_Solved_Questions/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/welidemezene/A2SV_Solved_Questions/tree/master/0560-subarray-sum-equals-k) |
@@ -748,6 +750,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/welidemezene/A2SV_Solved_Questions/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/welidemezene/A2SV_Solved_Questions/tree/master/0304-range-sum-query-2d-immutable) |
 | [0380-insert-delete-getrandom-o1](https://github.com/welidemezene/A2SV_Solved_Questions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0933-number-of-recent-calls](https://github.com/welidemezene/A2SV_Solved_Questions/tree/master/0933-number-of-recent-calls) |
