@@ -609,6 +609,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2000-reverse-prefix-of-word](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/2000-reverse-prefix-of-word) |
 | [2390-removing-stars-from-a-string](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/2390-removing-stars-from-a-string) |
+| [2487-remove-nodes-from-linked-list](https://github.com/welidemezene/A2SV_Solved_Questions/tree/master/2487-remove-nodes-from-linked-list) |
 | [3174-clear-digits](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/3174-clear-digits) |
 ## Game Theory
 |  |
@@ -623,6 +624,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0853-car-fleet) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [2487-remove-nodes-from-linked-list](https://github.com/welidemezene/A2SV_Solved_Questions/tree/master/2487-remove-nodes-from-linked-list) |
 ## Queue
 |  |
 | ------- |
@@ -683,6 +685,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/welidemezene/A2SV_Solved_Questions/tree/master/0237-delete-node-in-a-linked-list) |
 | [1472-design-browser-history](https://github.com/welidemezene/A2SV_Solved_Questions/tree/master/1472-design-browser-history) |
+| [2487-remove-nodes-from-linked-list](https://github.com/welidemezene/A2SV_Solved_Questions/tree/master/2487-remove-nodes-from-linked-list) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Recursion
@@ -692,6 +695,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/welidemezene/A2SV_Solved_Questions/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0206-reverse-linked-list) |
 | [0342-power-of-four](https://github.com/welidemezene/A2SV_Solved_Questions/tree/master/0342-power-of-four) |
+| [2487-remove-nodes-from-linked-list](https://github.com/welidemezene/A2SV_Solved_Questions/tree/master/2487-remove-nodes-from-linked-list) |
 ## Matrix
 |  |
 | ------- |
