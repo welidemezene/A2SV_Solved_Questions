@@ -374,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1528-shuffle-string](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/1528-shuffle-string) |
 | [1598-crawler-log-folder](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/1598-crawler-log-folder) |
 | [1657-determine-if-two-strings-are-close](https://github.com/welidemezene/A2SV_Solved_Questions/tree/master/1657-determine-if-two-strings-are-close) |
+| [1849-splitting-a-string-into-descending-consecutive-values](https://github.com/welidemezene/A2SV_Solved_Questions/tree/master/1849-splitting-a-string-into-descending-consecutive-values) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2000-reverse-prefix-of-word](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/2000-reverse-prefix-of-word) |
 | [2381-shifting-letters-ii](https://github.com/welidemezene/A2SV_Solved_Questions/tree/master/2381-shifting-letters-ii) |
@@ -729,6 +730,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [1849-splitting-a-string-into-descending-consecutive-values](https://github.com/welidemezene/A2SV_Solved_Questions/tree/master/1849-splitting-a-string-into-descending-consecutive-values) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 ## Doubly-Linked List
@@ -772,6 +774,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/welidemezene/A2SV_Solved_Questions/tree/master/0022-generate-parentheses) |
 | [0077-combinations](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0077-combinations) |
+| [1849-splitting-a-string-into-descending-consecutive-values](https://github.com/welidemezene/A2SV_Solved_Questions/tree/master/1849-splitting-a-string-into-descending-consecutive-values) |
 ## Design
 |  |
 | ------- |
