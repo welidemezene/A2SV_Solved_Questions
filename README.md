@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2381-shifting-letters-ii](https://github.com/welidemezene/A2SV_Solved_Questions/tree/master/2381-shifting-letters-ii) |
 | [2418-sort-the-people](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/2418-sort-the-people) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/welidemezene/A2SV_Solved_Questions/tree/master/2491-divide-players-into-teams-of-equal-skill) |
+| [2540-minimum-common-value](https://github.com/welidemezene/A2SV_Solved_Questions/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/welidemezene/A2SV_Solved_Questions/tree/master/2553-separate-the-digits-in-an-array) |
 | [2634-minimum-common-value](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/2634-minimum-common-value) |
 | [2780-minimum-index-of-a-valid-split](https://github.com/welidemezene/A2SV_Solved_Questions/tree/master/2780-minimum-index-of-a-valid-split) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2000-reverse-prefix-of-word](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/2000-reverse-prefix-of-word) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/welidemezene/A2SV_Solved_Questions/tree/master/2491-divide-players-into-teams-of-equal-skill) |
+| [2540-minimum-common-value](https://github.com/welidemezene/A2SV_Solved_Questions/tree/master/2540-minimum-common-value) |
 | [2634-minimum-common-value](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/2634-minimum-common-value) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
@@ -322,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2418-sort-the-people](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/2418-sort-the-people) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/welidemezene/A2SV_Solved_Questions/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2526-find-consecutive-integers-from-a-data-stream](https://github.com/welidemezene/A2SV_Solved_Questions/tree/master/2526-find-consecutive-integers-from-a-data-stream) |
+| [2540-minimum-common-value](https://github.com/welidemezene/A2SV_Solved_Questions/tree/master/2540-minimum-common-value) |
 | [2634-minimum-common-value](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/2634-minimum-common-value) |
 | [2671-frequency-tracker](https://github.com/welidemezene/A2SV_Solved_Questions/tree/master/2671-frequency-tracker) |
 | [2780-minimum-index-of-a-valid-split](https://github.com/welidemezene/A2SV_Solved_Questions/tree/master/2780-minimum-index-of-a-valid-split) |
@@ -411,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/welidemezene/A2SV_Solved_Questions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1646-kth-missing-positive-number](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/1646-kth-missing-positive-number) |
+| [2540-minimum-common-value](https://github.com/welidemezene/A2SV_Solved_Questions/tree/master/2540-minimum-common-value) |
 | [2634-minimum-common-value](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/2634-minimum-common-value) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
