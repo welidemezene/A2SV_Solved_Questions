@@ -603,6 +603,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0071-simplify-path) |
 | [0085-maximal-rectangle](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0085-maximal-rectangle) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0225-implement-stack-using-queues](https://github.com/welidemezene/A2SV_Solved_Questions/tree/master/0225-implement-stack-using-queues) |
 | [0456-132-pattern](https://github.com/welidemezene/A2SV_Solved_Questions/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0682-baseball-game) |
@@ -636,6 +637,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/welidemezene/A2SV_Solved_Questions/tree/master/0225-implement-stack-using-queues) |
 | [0933-number-of-recent-calls](https://github.com/welidemezene/A2SV_Solved_Questions/tree/master/0933-number-of-recent-calls) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/1700-number-of-students-unable-to-eat-lunch) |
@@ -785,6 +787,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/welidemezene/A2SV_Solved_Questions/tree/master/0225-implement-stack-using-queues) |
 | [0303-range-sum-query-immutable](https://github.com/welidemezene/A2SV_Solved_Questions/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/welidemezene/A2SV_Solved_Questions/tree/master/0304-range-sum-query-2d-immutable) |
 | [0380-insert-delete-getrandom-o1](https://github.com/welidemezene/A2SV_Solved_Questions/tree/master/0380-insert-delete-getrandom-o1) |
