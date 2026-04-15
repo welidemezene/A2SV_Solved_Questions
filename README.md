@@ -218,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1975-maximum-matrix-sum](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/1975-maximum-matrix-sum) |
 | [2007-find-original-array-from-doubled-array](https://github.com/welidemezene/A2SV_Solved_Questions/tree/master/2007-find-original-array-from-doubled-array) |
+| [2139-minimum-moves-to-reach-target-score](https://github.com/welidemezene/A2SV_Solved_Questions/tree/master/2139-minimum-moves-to-reach-target-score) |
 | [2366-minimum-replacements-to-sort-the-array](https://github.com/welidemezene/A2SV_Solved_Questions/tree/master/2366-minimum-replacements-to-sort-the-array) |
 | [2600-k-items-with-the-maximum-sum](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/2600-k-items-with-the-maximum-sum) |
 | [3195-separate-black-and-white-balls](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/3195-separate-black-and-white-balls) |
@@ -519,6 +520,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1266-minimum-time-visiting-all-points](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/1390-four-divisors) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/1561-maximum-number-of-coins-you-can-get) |
+| [2139-minimum-moves-to-reach-target-score](https://github.com/welidemezene/A2SV_Solved_Questions/tree/master/2139-minimum-moves-to-reach-target-score) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2366-minimum-replacements-to-sort-the-array](https://github.com/welidemezene/A2SV_Solved_Questions/tree/master/2366-minimum-replacements-to-sort-the-array) |
