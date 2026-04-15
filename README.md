@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/1798-max-number-of-k-sum-pairs) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/welidemezene/A2SV_Solved_Questions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/welidemezene/A2SV_Solved_Questions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
@@ -525,6 +526,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1266-minimum-time-visiting-all-points](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/1390-four-divisors) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/1561-maximum-number-of-coins-you-can-get) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/welidemezene/A2SV_Solved_Questions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2139-minimum-moves-to-reach-target-score](https://github.com/welidemezene/A2SV_Solved_Questions/tree/master/2139-minimum-moves-to-reach-target-score) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/2324-find-triangular-sum-of-an-array) |
@@ -546,6 +548,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0950-reveal-cards-in-increasing-order](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0950-reveal-cards-in-increasing-order) |
 | [0985-sum-of-even-numbers-after-queries](https://github.com/welidemezene/A2SV_Solved_Questions/tree/master/0985-sum-of-even-numbers-after-queries) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/welidemezene/A2SV_Solved_Questions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2073-time-needed-to-buy-tickets](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/2073-time-needed-to-buy-tickets) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/2324-find-triangular-sum-of-an-array) |
@@ -655,6 +658,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0933-number-of-recent-calls](https://github.com/welidemezene/A2SV_Solved_Questions/tree/master/0933-number-of-recent-calls) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/welidemezene/A2SV_Solved_Questions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2073-time-needed-to-buy-tickets](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/2073-time-needed-to-buy-tickets) |
 | [2526-find-consecutive-integers-from-a-data-stream](https://github.com/welidemezene/A2SV_Solved_Questions/tree/master/2526-find-consecutive-integers-from-a-data-stream) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -722,6 +726,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/welidemezene/A2SV_Solved_Questions/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0206-reverse-linked-list) |
 | [0342-power-of-four](https://github.com/welidemezene/A2SV_Solved_Questions/tree/master/0342-power-of-four) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/welidemezene/A2SV_Solved_Questions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2487-remove-nodes-from-linked-list](https://github.com/welidemezene/A2SV_Solved_Questions/tree/master/2487-remove-nodes-from-linked-list) |
 ## Matrix
 |  |
