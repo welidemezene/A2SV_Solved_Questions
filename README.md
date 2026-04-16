@@ -677,6 +677,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0110-balanced-binary-tree) |
 | [0210-course-schedule-ii](https://github.com/welidemezene/A2SV_Solved_Questions/tree/master/0210-course-schedule-ii) |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/welidemezene/A2SV_Solved_Questions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/1339-maximum-product-of-splitted-binary-tree) |
@@ -715,6 +716,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/welidemezene/A2SV_Solved_Questions/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/welidemezene/A2SV_Solved_Questions/tree/master/0328-odd-even-linked-list) |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/welidemezene/A2SV_Solved_Questions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [1472-design-browser-history](https://github.com/welidemezene/A2SV_Solved_Questions/tree/master/1472-design-browser-history) |
 | [2487-remove-nodes-from-linked-list](https://github.com/welidemezene/A2SV_Solved_Questions/tree/master/2487-remove-nodes-from-linked-list) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
@@ -764,6 +766,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Doubly-Linked List
 |  |
 | ------- |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/welidemezene/A2SV_Solved_Questions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [1472-design-browser-history](https://github.com/welidemezene/A2SV_Solved_Questions/tree/master/1472-design-browser-history) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
