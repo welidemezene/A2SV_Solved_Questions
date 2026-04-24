@@ -685,6 +685,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0110-balanced-binary-tree) |
 | [0210-course-schedule-ii](https://github.com/welidemezene/A2SV_Solved_Questions/tree/master/0210-course-schedule-ii) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/welidemezene/A2SV_Solved_Questions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+| [0785-is-graph-bipartite](https://github.com/welidemezene/A2SV_Solved_Questions/tree/master/0785-is-graph-bipartite) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/1339-maximum-product-of-splitted-binary-tree) |
@@ -694,6 +695,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0100-same-tree) |
 | [0210-course-schedule-ii](https://github.com/welidemezene/A2SV_Solved_Questions/tree/master/0210-course-schedule-ii) |
+| [0785-is-graph-bipartite](https://github.com/welidemezene/A2SV_Solved_Questions/tree/master/0785-is-graph-bipartite) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Binary Tree
@@ -788,6 +790,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0210-course-schedule-ii](https://github.com/welidemezene/A2SV_Solved_Questions/tree/master/0210-course-schedule-ii) |
+| [0785-is-graph-bipartite](https://github.com/welidemezene/A2SV_Solved_Questions/tree/master/0785-is-graph-bipartite) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/3650-minimum-cost-path-with-edge-reversals) |
@@ -831,6 +834,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/welidemezene/A2SV_Solved_Questions/tree/master/0128-longest-consecutive-sequence) |
+| [0785-is-graph-bipartite](https://github.com/welidemezene/A2SV_Solved_Questions/tree/master/0785-is-graph-bipartite) |
 ## Randomized
 |  |
 | ------- |
