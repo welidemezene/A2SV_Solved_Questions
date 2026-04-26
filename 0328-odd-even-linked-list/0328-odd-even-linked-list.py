@@ -12,5 +12,5 @@ class Solution:
             even.next = even.next.next
             even = even.next
 
-        odd.next = even_head  # Connect odd list to even list
+        odd.next = even_head 
         return head
