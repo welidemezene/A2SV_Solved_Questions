@@ -677,6 +677,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0110-balanced-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [0965-univalued-binary-tree](https://github.com/welidemezene/A2SV_Solved_Questions/tree/master/0965-univalued-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/1382-balance-a-binary-search-tree) |
@@ -690,6 +691,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/welidemezene/A2SV_Solved_Questions/tree/master/0785-is-graph-bipartite) |
 | [0797-all-paths-from-source-to-target](https://github.com/welidemezene/A2SV_Solved_Questions/tree/master/0797-all-paths-from-source-to-target) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [0965-univalued-binary-tree](https://github.com/welidemezene/A2SV_Solved_Questions/tree/master/0965-univalued-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/1382-balance-a-binary-search-tree) |
@@ -702,6 +704,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/welidemezene/A2SV_Solved_Questions/tree/master/0785-is-graph-bipartite) |
 | [0797-all-paths-from-source-to-target](https://github.com/welidemezene/A2SV_Solved_Questions/tree/master/0797-all-paths-from-source-to-target) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [0965-univalued-binary-tree](https://github.com/welidemezene/A2SV_Solved_Questions/tree/master/0965-univalued-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [2101-detonate-the-maximum-bombs](https://github.com/welidemezene/A2SV_Solved_Questions/tree/master/2101-detonate-the-maximum-bombs) |
 ## Binary Tree
@@ -710,6 +713,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0110-balanced-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [0965-univalued-binary-tree](https://github.com/welidemezene/A2SV_Solved_Questions/tree/master/0965-univalued-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/1382-balance-a-binary-search-tree) |
