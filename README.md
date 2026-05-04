@@ -680,6 +680,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0100-same-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/welidemezene/A2SV_Solved_Questions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0110-balanced-binary-tree) |
+| [0437-path-sum-iii](https://github.com/welidemezene/A2SV_Solved_Questions/tree/master/0437-path-sum-iii) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0965-univalued-binary-tree](https://github.com/welidemezene/A2SV_Solved_Questions/tree/master/0965-univalued-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -692,6 +693,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0110-balanced-binary-tree) |
 | [0210-course-schedule-ii](https://github.com/welidemezene/A2SV_Solved_Questions/tree/master/0210-course-schedule-ii) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/welidemezene/A2SV_Solved_Questions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+| [0437-path-sum-iii](https://github.com/welidemezene/A2SV_Solved_Questions/tree/master/0437-path-sum-iii) |
 | [0785-is-graph-bipartite](https://github.com/welidemezene/A2SV_Solved_Questions/tree/master/0785-is-graph-bipartite) |
 | [0797-all-paths-from-source-to-target](https://github.com/welidemezene/A2SV_Solved_Questions/tree/master/0797-all-paths-from-source-to-target) |
 | [0802-find-eventual-safe-states](https://github.com/welidemezene/A2SV_Solved_Questions/tree/master/0802-find-eventual-safe-states) |
@@ -720,6 +722,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0100-same-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/welidemezene/A2SV_Solved_Questions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0110-balanced-binary-tree) |
+| [0437-path-sum-iii](https://github.com/welidemezene/A2SV_Solved_Questions/tree/master/0437-path-sum-iii) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0965-univalued-binary-tree](https://github.com/welidemezene/A2SV_Solved_Questions/tree/master/0965-univalued-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
