@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/welidemezene/A2SV_Solved_Questions/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/welidemezene/A2SV_Solved_Questions/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0229-majority-element-ii) |
@@ -525,6 +526,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/welidemezene/A2SV_Solved_Questions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0202-happy-number) |
+| [0204-count-primes](https://github.com/welidemezene/A2SV_Solved_Questions/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/welidemezene/A2SV_Solved_Questions/tree/master/0342-power-of-four) |
 | [0380-insert-delete-getrandom-o1](https://github.com/welidemezene/A2SV_Solved_Questions/tree/master/0380-insert-delete-getrandom-o1) |
@@ -804,6 +806,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/welidemezene/A2SV_Solved_Questions/tree/master/0204-count-primes) |
 | [1849-splitting-a-string-into-descending-consecutive-values](https://github.com/welidemezene/A2SV_Solved_Questions/tree/master/1849-splitting-a-string-into-descending-consecutive-values) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
@@ -845,6 +848,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/welidemezene/A2SV_Solved_Questions/tree/master/0204-count-primes) |
 | [2413-smallest-even-multiple](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/2413-smallest-even-multiple) |
 ## Binary Search Tree
 |  |
@@ -910,4 +914,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/welidemezene/A2SV_Solved_Questions/tree/master/0912-sort-an-array) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/welidemezene/A2SV_Solved_Questions/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/welidemezene/A2SV_Solved_Questions/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/welidemezene/A2SV_Solved_Questions/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
