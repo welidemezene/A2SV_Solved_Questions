@@ -934,4 +934,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/welidemezene/A2SV_Solved_Questions/tree/master/0075-sort-colors) |
+| [1051-height-checker](https://github.com/welidemezene/A2SV_Solved_Questions/tree/master/1051-height-checker) |
 <!---LeetCode Topics End-->
