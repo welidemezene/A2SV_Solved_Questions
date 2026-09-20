@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/welidemezene/A2SV_Solved_Questions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/welidemezene/A2SV_Solved_Questions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0085-maximal-rectangle) |
+| [0088-merge-sorted-array](https://github.com/welidemezene/A2SV_Solved_Questions/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/welidemezene/A2SV_Solved_Questions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0119-pascals-triangle-ii](https://github.com/welidemezene/A2SV_Solved_Questions/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/welidemezene/A2SV_Solved_Questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/welidemezene/A2SV_Solved_Questions/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/welidemezene/A2SV_Solved_Questions/tree/master/0189-rotate-array) |
@@ -242,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/welidemezene/A2SV_Solved_Questions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0217-contains-duplicate) |
