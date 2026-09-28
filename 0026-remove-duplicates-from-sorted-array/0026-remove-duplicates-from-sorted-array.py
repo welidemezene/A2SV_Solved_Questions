@@ -6,3 +6,5 @@ class Solution:
                 nums[index] = nums[i]
                 index += 1
         return index
+ 
+
