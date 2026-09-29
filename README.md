@@ -380,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/welidemezene/A2SV_Solved_Questions/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/welidemezene/A2SV_Solved_Questions/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0383-ransom-note) |
+| [0394-decode-string](https://github.com/welidemezene/A2SV_Solved_Questions/tree/master/0394-decode-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0451-sort-characters-by-frequency) |
@@ -646,6 +647,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0225-implement-stack-using-queues](https://github.com/welidemezene/A2SV_Solved_Questions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/welidemezene/A2SV_Solved_Questions/tree/master/0232-implement-queue-using-stacks) |
+| [0394-decode-string](https://github.com/welidemezene/A2SV_Solved_Questions/tree/master/0394-decode-string) |
 | [0456-132-pattern](https://github.com/welidemezene/A2SV_Solved_Questions/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/welidemezene/leetcode_algorithm_problem/tree/master/0682-baseball-game) |
@@ -787,6 +789,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/welidemezene/A2SV_Solved_Questions/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/welidemezene/A2SV_Solved_Questions/tree/master/0342-power-of-four) |
 | [0390-elimination-game](https://github.com/welidemezene/A2SV_Solved_Questions/tree/master/0390-elimination-game) |
+| [0394-decode-string](https://github.com/welidemezene/A2SV_Solved_Questions/tree/master/0394-decode-string) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/welidemezene/A2SV_Solved_Questions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2487-remove-nodes-from-linked-list](https://github.com/welidemezene/A2SV_Solved_Questions/tree/master/2487-remove-nodes-from-linked-list) |
 ## Matrix
