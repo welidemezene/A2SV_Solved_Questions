@@ -1,7 +1,11 @@
 class Solution:
-    def groupAnagrams(self, strs: List[str]) -> List[List[str]]:
-        freq = defaultdict(list)
-        for s in strs:
-            key = "".join(sorted(s))
-            freq[key].append(s)
-        return list(freq.values())    
+    def groupAnagrams(self, strs: list[str]) -> list[list[str]]:
+        dif = defaultdict(list)
+
+        for n in strs:
+            key = "".join(sorted(n))
+            dif[key].append(n)
+        return list(dif.values())    
+
+
+        
