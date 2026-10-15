@@ -1,14 +1,23 @@
 class Solution:
-    def productExceptSelf(self, nums: List[int]) -> List[int]:
-        ans = [1] * len(nums)
-        le = len(nums)
+    def productExceptSelf(self, nums: list[int]) -> list[int]:
+        cnt_zeros = nums.count(0)
+        list1 = [0] * len(nums)
+        list2 = []
 
-        left_product = 1
-        for i in range(le):
-            ans[i] = left_product
-            left_product *= nums[i]
-        right_product = 1
-        for i in range(le-1,-1,-1):
-            ans[i] *= right_product
-            right_product *= nums[i]
-        return ans        
+        multi = 1
+        for n in nums:
+            if n != 0:
+                multi *= n
+        if cnt_zeros > 1:
+            return ([0] * len(nums))
+
+        elif cnt_zeros == 1:
+            for i in range(len(nums)):
+                if nums[i] == 0:
+                    list1[i] = multi
+            return list1
+        else:
+            for n in nums:
+                list2.append(multi // n)  
+            return list2            
+        
