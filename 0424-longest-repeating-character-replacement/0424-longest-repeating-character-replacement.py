@@ -1,25 +1,20 @@
-
-
 class Solution:
     def characterReplacement(self, s: str, k: int) -> int:
-        count = defaultdict(int)   # stores frequency of chars in current window
-        left = 0
-        max_count = 0              # most frequent character in current window
-        res = 0                    # final answer
+        len1 = len(s)
+        freq = defaultdict(int)
+        l = 0
+        max1 = 0
+        for i in range(len1):
+            freq[s[i]]+=1
 
-        for right in range(len(s)):
-            # 1️⃣ expand window by including s[right]
-            count[s[right]] += 1
-            
-            # 2️⃣ track the max frequency in current window
-            max_count = max(max_count, count[s[right]])
-            
-            # 3️⃣ if we need to replace more than k characters → shrink window
-            while (right - left + 1) - max_count > k:
-                count[s[left]] -= 1
-                left += 1
-            
-            # 4️⃣ update the result (window length)
-            res = max(res, right - left + 1)
-        
-        return res
+            max2 = max(freq.values())
+            while (i-l+1) - max2 >k:
+                freq[s[l]]-=1
+                l+=1
+            val = i-l+1
+            if val>max1:
+                max1 = val
+        return max1            
+
+
+       
